@@ -2,5 +2,6 @@
 
 use examples
 ```
-https://cdn.jsdelivr.net/gh/laindream/dotfiles@master/.proxyrc
+wget https://cdn.jsdelivr.net/gh/laindream/dotfiles@master/.proxyrc
+source .proxyrc
 ```
